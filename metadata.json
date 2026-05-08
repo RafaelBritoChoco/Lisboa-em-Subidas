@@ -1,0 +1,6 @@
+{
+  "name": "Lisboa em Subidas",
+  "description": "Aplicativo web estilo Google Maps que mostra a inclinação das ruas e rotas de Lisboa usando dados de elevação, APIs geográficas e camadas visuais coloridas.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
